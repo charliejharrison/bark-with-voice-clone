@@ -4,6 +4,8 @@ Author: https://www.github.com/gitmylo/
 License: MIT
 """
 
+from __future__ import annotations
+
 import json
 import os.path
 from zipfile import ZipFile

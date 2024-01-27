@@ -40,6 +40,16 @@ for the solution to the semantic token generation for better voice clones and fi
 
 -------------------------------------------------------------------
 # Original README.md
+
+## Installation
+- Create a clean Python environment with python==3.9
+- Run `pip install .`
+- Install the iPython widget and kernel gubbins
+- `pip install fairseq`
+- `pip install tensorboardX`
+- `pip install audiolm_pytorch`
+
+
 ## 🤖 Usage
 
 ```python
@@ -188,3 +198,4 @@ Below is a list of some known non-speech sounds
 | Arabic  | Coming soon! |
 | Bengali | Coming soon! |
 | Telugu | Coming soon! |
+
