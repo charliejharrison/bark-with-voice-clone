@@ -24,7 +24,6 @@ dependencies = [
     "torch",
     "tqdm",
     "transformers",
-    "fairseq",
     "audiolm_pytorch"
 ]
 
