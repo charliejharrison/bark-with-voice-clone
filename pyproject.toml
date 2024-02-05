@@ -24,7 +24,8 @@ dependencies = [
     "torch",
     "tqdm",
     "transformers",
-    "audiolm_pytorch"
+    "audiolm_pytorch",
+    "tensorboardX",
 ]
 
 [project.urls]
